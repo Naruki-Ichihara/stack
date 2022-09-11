@@ -4,7 +4,6 @@ from dolfin import *
 import fenics_optimize as fo
 import numpy as np
 import stack as st
-from stack.kinematics import nagdi_strains
 
 # Meta parameters
 EPS = 3e-16
